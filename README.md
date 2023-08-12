@@ -30,4 +30,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annebula77&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annebula77&theme=2077)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnnebula77%2Fhit-counter&count_bg=%233D85C8&title_bg=%23213E57&icon=&icon_color=%23C27927&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
