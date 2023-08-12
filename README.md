@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gohar</h1>
-<h3 align="center">A frontend developer now, a full-stack developer in the nearest future</h3>
+<h3 align="center">A frontend developer now, a full-stack developer in the future</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Annebula77](https://github.com/Annebula77)
+- 🌱 My goal is to become a skilled full-stack programmer, equipped with all the necessary
+     skills to create high-quality websites, ranging from usability to backend development and security.
+
+- 👨‍💻 All of my projects are available at [Annebula77](https://github.com/Annebula77)
 
 - 📫 How to reach me **goharvard77@gmail.com**
 
-- 📄 Know about my experiences [https://hh.ru/applicant/resumes/view?resume=aba4591fff0c285c2f0039ed1f626b53434652](https://hh.ru/applicant/resumes/view?resume=aba4591fff0c285c2f0039ed1f626b53434652)
+- 📄 Know about my experiences [hh.ru](https://hh.ru/applicant/resumes/view?resume=aba4591fff0c285c2f0039ed1f626b53434652)
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
