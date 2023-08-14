@@ -33,10 +33,11 @@
 <br>
 <br>
 
+<h3 align="left">Contact me:</h3>
+
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Annebula77) [![Email](https://img.shields.io/badge/-goharvard77%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:goharvard77@gmail.com)
 
-
-
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annebula77&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annebula77&theme=2077)
 
