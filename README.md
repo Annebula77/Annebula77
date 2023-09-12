@@ -13,7 +13,7 @@
 
 
 - 🌱 My goal is to become a highly skilled developer, equipped with all the necessary
-     skills to create high-quality websites, ranging from usability to backend development and security.
+     skills to create high-quality websites and services, ranging from usability to backend development and security.
 
 - 👨‍💻 All of my projects are available at [Annebula77](https://github.com/Annebula77)
 
