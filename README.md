@@ -13,11 +13,14 @@
 
 
 - 🌱 My goal is to become a highly skilled developer, equipped with all the necessary
-     skills to create high-quality websites and services, ranging from usability to backend development and security.
+     skills to create high-quality websites and services, ranging from usability to backend development and security. And I work hard every day to reach this aim.
+  
+- 🐱‍🏍 I am opened for interesting projects no matter how challenging they might be, and am always ready to learn something new.
 
-- 👨‍💻 All of my projects are available at [Annebula77](https://github.com/Annebula77)
+- 👨‍💻 Here you can find projects that showcase my skills.Just open my repositories.
 
-- 📄 Know about my experiences [hh.ru](https://hh.ru/applicant/resumes/view?resume=aba4591fff0c285c2f0039ed1f626b53434652)
+- 📄 My resume in Russian language is  here at [hh.ru](https://hh.ru/applicant/resumes/view?resume=aba4591fff0c285c2f0039ed1f626b53434652).
+  
 
 <br>
 
