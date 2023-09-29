@@ -12,8 +12,7 @@
 <br>
 
 
-- 🌱 My goal is to become a highly skilled developer, equipped with all the necessary
-     skills to create high-quality websites and services, ranging from usability to backend development and security. And I work hard every day to reach this aim.
+- 🌱 I am a budding frontend developer aspiring to become a highly proficient professional in the field, and I am committed to working towards this goal every day.
   
 - 🐱‍🏍 I am opened for interesting projects no matter how challenging they might be, and am always ready to learn something new.
 
