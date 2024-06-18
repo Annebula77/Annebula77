@@ -19,6 +19,7 @@
 - 👨‍💻 Here you can find projects that showcase my skills.Just open my repositories.
 
 - 📄 My resume in Russian language is  here at [hh.ru](https://hh.ru/applicant/resumes/view?resume=aba4591fff0c285c2f0039ed1f626b53434652).
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gohar1/)
   
 
 <br>
